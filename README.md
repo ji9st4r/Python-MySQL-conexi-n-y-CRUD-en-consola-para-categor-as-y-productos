@@ -1,0 +1,1 @@
+# Python-MySQL-conexi-n-y-CRUD-en-consola-para-categor-as-y-productos
